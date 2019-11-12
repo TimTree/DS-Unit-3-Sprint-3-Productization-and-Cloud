@@ -1,3 +1,5 @@
+Flask app URL: https://github.com/TimTree/DS8-flaskapp
+
 ## Monday
 
 1. What went well (in the context of working on the assignment) today?
